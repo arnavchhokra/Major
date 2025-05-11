@@ -1,6 +1,8 @@
 
 # 🧑‍💻 Decentralized Data Labelling  Platform
 
+VIDE LINK:  https://drive.google.com/file/d/1mtfSwGnl2CL0FJM-8KmLt5FTbQQYDVfi/view?usp=sharing
+
 A decentralized marketplace built on the **Solana blockchain** that connects freelancers with clients, with a focus on **image labeling and comparison** tasks.
 
 ---
