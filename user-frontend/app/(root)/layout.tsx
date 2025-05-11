@@ -18,7 +18,7 @@ export default function RootLayout({
   const network = WalletAdapterNetwork.Mainnet;
 
   // You can also provide a custom RPC endpoint.
-  const endpoint = "your_rpc_url";
+  const endpoint = "https://wiser-wiser-dinghy.solana-devnet.quiknode.pro/8ae9d891bc03af488eb256f6de5dde03a869d64f/";
 
   const wallets = useMemo(
       () => [],
